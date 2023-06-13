@@ -21,5 +21,5 @@
 <div><br>
 <img height="100em" src="https://clientes.ipacloud.com.br/assets/img/logo.png"/>  
 </div>  
-  
-![Snake animation](https://github.com/ipacloud/ipacloud/blob/output/github-contribution-grid-snake.svg)  
+<!--  
+![Snake animation](https://github.com/ipacloud/ipacloud/blob/output/github-contribution-grid-snake.svg)  -->
